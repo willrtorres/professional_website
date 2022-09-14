@@ -1,0 +1,28 @@
+---
+label: test
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: project
+  label: project
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: categories
+  label: categories
+- type: textarea
+  name: shortDescription
+  label: shortDescription
+- type: textarea
+  name: challenge
+  label: challenge
+- type: textarea
+  name: solution
+  label: solution
+- type: file
+  name: thumbnail
+  label: thumbnail
