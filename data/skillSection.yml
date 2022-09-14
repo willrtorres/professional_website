@@ -1,0 +1,9 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Here's where I can help
+
+  I have a strong background in data science, machine learning, and business problem-solving. I mainly use R and Python.
+  
+image: images/hero/user_photo.jpeg

@@ -1,0 +1,18 @@
+---
+enable: true
+topTitle: Testimonials
+title: >
+  ## What Do My Co-workers Think about My Work?
+
+testimonial:
+  - name: Benjamin Skelton
+    title: Battery Commander, Florida National Guard 
+    image: "/images/testimonial/skelton.jpeg"
+    comment: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+    star: 5
+  - name: Joe Whitaker 
+    title: Project Manager 
+    image: "/images/testimonial/joe_whitaker.jpeg"
+    comment: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+    star: 5
+

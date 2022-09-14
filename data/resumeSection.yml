@@ -1,0 +1,79 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Experience & Education
+
+  Over 15+ years of experience working with companies from all over the world.
+
+buttonName: "Download Resume PDF"
+buttonTarget: "/cv/resume-matt.pdf"
+
+tab1Name: Experience
+tab2Name: Education
+tab1Target: experience
+tab2Target: education
+
+
+experience:
+  - content: > 
+  
+      ### Deputy Director of Logistics & Maintenance
+      
+      ### Florida Army National Guard
+      
+      - Develop strategies, produce objective roadmap, improve data quality and efficiency to improve readiness of organization.
+      
+      - Integrated vehicle and equipment datasets across 5 supported organizations to create a pipeline using R
+      
+      - Incorporated metrics from stakeholders to create linear regression model to help guide leadership in decision making with data visuals
+      
+      - Worked with stakeholders to develop maintenance and logistics plan that reduced the number of vehicles and equipment down by 40%
+      
+    time: 2021-Present
+  - content: >
+      ### Logistics & Maintenance Coordinator
+      
+      #### Florida Army National Guard
+      
+      - Supervised over 50 employees that provided maintenance and logistics functions for department.
+      
+      - Maintained and tracked vehicle and equipment status in excel, provided status reports to deputy director.
+      
+      - Redesigned organizational excel dataset to track over 300 people regarding weapons qualification certification. This led to a 60% reduction in time allocated for data input and calculating metrics.
+   
+    time: 2016-2021
+
+  - content: >
+      ### Project Manager
+      
+      #### City of Jacksonville
+
+      - Perform research and forecast fiscal impact analysis to support city public investment.
+      
+      - Over 5 years span, worked on 49 projects that resulted in __economic impact of $2.5 billion in capital investment and creation of over 7.4k jobs.__
+      
+    time: 2015-Present
+
+
+
+education:
+  - content: >
+      #### Master of Science in Analytics
+
+      Georgia Institute of Technology 
+      
+    time: 2022
+  - content: >
+      #### Basic Officers Leadership Course
+
+      Army Logistics University 
+    
+    time: 2017
+  - content: >
+      #### Bachelor of Art in Political Science
+      
+      University of Florida 
+      
+    time: 2009
+  

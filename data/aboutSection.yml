@@ -1,0 +1,22 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## Who is Will?
+
+  Will is a business-forward problem solver with over 5+ years of experience working with companies and organzations from all over the world.
+  
+content: >
+  ### I design and build awesome data science products.
+  My passion is researching and seeing what makes businesses tick. But, when I am not working, I enjoy flying my drones, reading books, and 
+  playing Overwatch. 
+  
+  
+  My area of focus is applying data science to business. I create value for companies by understanding the financial cost of problems and delivering a return-on-investment with my solutions. 
+  I enjoy learning, working with stakeholders, and making better decisions with data.
+button1Name: LinkedIn
+button2Name: Download CV
+button1Target: https://www.linkedin.com/in/willrtorres/
+button2Target: "/cv/wtorres_resume.pdf"
+image: images/hero/user_photo.jpeg
+imageMaskPosition: 70px 0px

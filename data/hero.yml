@@ -1,0 +1,16 @@
+---
+enable: true
+topTitle: Data Scientist 
+content: >
+  # Hi I'm Will
+
+  Will is a [Data Analytics Professional](https://www.linkedin.com/in/willrtorres/),
+  that has a history of bridging the gap between business problems and data-driven solutions.
+  
+buttonName: Contact Will
+buttonColor: Blue
+buttonIcon: 'fa fa-envelope'
+buttonURL: " #contact"
+image: images/hero/user_photo.jpeg
+videoThumb: 
+videoURL: 
